@@ -1,0 +1,46 @@
+{
+"categories": [
+    {
+"name": "Tickets and Experiences",      
+      "slug": "",
+      "description": "",
+      "meta": "",
+    "order": 173633,
+      "child":[
+       
+{
+   "order": 173633,
+   "name": "Tickets & Experiences > Sports Tickets"
+ },
+ {
+   "order": 173634,
+   "name": "Tickets & Experiences > Concert Tickets"
+ },
+ {
+   "order": 173635,
+   "name": "Tickets & Experiences > Theater Tickets"
+ },
+ {
+   "order": 170594,
+   "name": "Tickets & Experiences > Theme Park & Club Passes"
+ },
+ {
+   "order": 178892,
+   "name": "Tickets & Experiences > Parking Passes"
+ },
+ {
+   "order": 170591,
+   "name": "Tickets & Experiences > Special Experiences"
+ },
+ {
+   "order": 1306,
+   "name": "Tickets & Experiences > Other Tickets & Experiences"
+ }
+
+ 
+]
+    }
+  ],
+  "listings":[
+  ]
+}

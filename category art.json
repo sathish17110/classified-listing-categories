@@ -1,0 +1,59 @@
+{
+"categories": [
+    {
+"name": "Art",      
+      "slug": "",
+      "description": "",
+      "meta": "",
+    "order": 28009,
+      "child":[
+       
+
+ {
+   "order": 28009,
+   "name": "Art > Art Posters"
+ },
+ {
+   "order": 552,
+   "name": "Art > Art Drawings"
+ },
+ {
+   "order": 2211,
+   "name": "Art > Art Photographs"
+ },
+ {
+   "order": 360,
+   "name": "Art > Art Prints"
+ },
+ {
+   "order": 553,
+   "name": "Art > Art Sculptures"
+ },
+ {
+   "order": 357,
+   "name": "Art > Folk Art & Indigenous Art"
+ },
+ {
+   "order": 554,
+   "name": "Art > Mixed Media Art & Collage Art"
+ },
+ {
+   "order": 551,
+   "name": "Art > Paintings"
+ },
+ {
+   "order": 156196,
+   "name": "Art > Textile Art & Fiber Art"
+ },
+ {
+   "order": 20158,
+   "name": "Art > Other Art"
+ }
+
+
+]
+    }
+  ],
+  "listings":[
+  ]
+}
